@@ -8,7 +8,7 @@
 ## 🔹 About Me
 - 🎓 B.Tech in Artificial Intelligence & Machine Learning (SIRT, Bhopal)  
 - 🌱 Passionate about **AI, Data Analytics, and Generative AI**  
-- 📊 Strong background in **Machine Learning, Backend Development, and System Design**  
+- 📊 Strong background in **Machine Learning  Backend Development**  
 - ⚡ Exploring **AR/VR** and cutting-edge AI tools  
 
 ---
@@ -24,7 +24,7 @@
 
 ### 📌 [SMS-Spam-Detection](https://github.com/navyagupta38/SMS-Spam-Detection)  
 Machine learning-based system to classify SMS messages as spam or ham.  
-- 🔹 Built using Naive Bayes, TF-IDF, Pandas, and Scikit-learn  
+- 🔹 Built using Naive Bayes, NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn  
 - 🔹 Achieved high accuracy with precision/recall evaluation  
 
 ---
