@@ -62,7 +62,8 @@ A **Django-based music streaming platform**.
 
 ![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=navyagupta38&show_icons=true&theme=radical)
 
---
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyagupta38&layout=compact&theme=radical)
 
 ---
