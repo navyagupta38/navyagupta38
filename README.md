@@ -25,14 +25,14 @@
 
 ## 🔹 Featured Projects  
 
-### 📌 [SMS-Spam-Detection](https://github.com/navyagupta38/SMS-Spam-Detection)  
+### 📨 [SMS-Spam-Detection](https://github.com/navyagupta38/SMS-Spam-Detection)  
 Machine learning-based system to classify SMS messages as spam or ham.  
 - 🔹 Built using Naive Bayes, NumPy, Pandas, Matplotlib, Seaborn and Scikit-learn  
 - 🔹 Performed data preprocessing, vectorization, and evaluation with high accuracy  
 
 ---
 
-### 📌 [Voice Assistant](https://github.com/navyagupta38/YouTube-Voice-Assistant)  
+### 🗣️ [YouTube Voice Assistant](https://github.com/navyagupta38/YouTube-Voice-Assistant)  
 A Python-based voice assistant to play YouTube videos.  
 - 🎤 Uses SpeechRecognition & Pyttsx3  
 - ▶️ Plays YouTube videos directly via voice commands
@@ -49,7 +49,7 @@ A real‐time weather web/app to check temperature, humidity, wind speed, and co
 
 ---
 
-### 📌 [VN-Music](https://github.com/navyagupta38/VN-Music)  
+### 🎶 [VN-Music](https://github.com/navyagupta38/VN-Music)  
 A **Django-based music streaming platform**.  
 - 🎵 Features user login, profiles, and music uploads  
 - 💡 Backend powered by Django & SQLite  
@@ -61,6 +61,8 @@ A **Django-based music streaming platform**.
 ## 🔹 GitHub Stats
 
 ![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=navyagupta38&show_icons=true&theme=radical)
+
+--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyagupta38&layout=compact&theme=radical)
 
 ---
